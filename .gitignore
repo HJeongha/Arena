@@ -1,0 +1,8 @@
+/Arena.sln
+/.vs
+/Intermediate
+/Saved
+/Build
+/Plugins
+*.sln
+*_BuiltData.uasset
